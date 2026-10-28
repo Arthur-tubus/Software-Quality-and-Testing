@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonso\\Desktop\\repository\\Software-Quality-and-Testing\\Software-Quality-and-Testing\\lab3\\sut-a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA09BC8A-F8AA-4936-AD67-D56C7E45F416}|UniversityTesting.Tests\\UniversityTesting.Tests.csproj|c:\\users\\jonso\\desktop\\repository\\software-quality-and-testing\\software-quality-and-testing\\lab3\\sut-a\\universitytesting.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA09BC8A-F8AA-4936-AD67-D56C7E45F416}|UniversityTesting.Tests\\UniversityTesting.Tests.csproj|solutionrelative:universitytesting.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA7A0BC-FCED-4900-9FC7-7DF85E599F23}|sut-a\\UniversityTesting.Variant11.csproj|c:\\users\\jonso\\desktop\\repository\\software-quality-and-testing\\software-quality-and-testing\\lab3\\sut-a\\sut-a\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA7A0BC-FCED-4900-9FC7-7DF85E599F23}|sut-a\\UniversityTesting.Variant11.csproj|solutionrelative:sut-a\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\jonso\\Desktop\\repository\\Software-Quality-and-Testing\\Software-Quality-and-Testing\\lab3\\sut-a\\UniversityTesting.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UniversityTesting.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\jonso\\Desktop\\repository\\Software-Quality-and-Testing\\Software-Quality-and-Testing\\lab3\\sut-a\\UniversityTesting.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "UniversityTesting.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:52:46.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubscriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\jonso\\Desktop\\repository\\Software-Quality-and-Testing\\Software-Quality-and-Testing\\lab3\\sut-a\\sut-a\\SubscriptionService.cs",
+              "RelativeDocumentMoniker": "sut-a\\SubscriptionService.cs",
+              "ToolTip": "C:\\Users\\jonso\\Desktop\\repository\\Software-Quality-and-Testing\\Software-Quality-and-Testing\\lab3\\sut-a\\sut-a\\SubscriptionService.cs",
+              "RelativeToolTip": "sut-a\\SubscriptionService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:52:16.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4fc5ff1-28ef-4b04-ad02-6b298310ccc7}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

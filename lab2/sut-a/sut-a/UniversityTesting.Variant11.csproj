@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>sut_a</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq" Version="4.21.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="UniversityTesting.Variant11">
+      <HintPath>bin\Debug\net8.0\UniversityTesting.Variant11.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "a0sLinBBHB8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonso\\Desktop\\repository\\Software-Quality-and-Testing\\Software-Quality-and-Testing\\lab3\\sut-a\\sut-a\\UniversityTesting.Variant11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonso\\.nuget\\packages\\castle.core\\5.2.1\\castle.core.5.2.1.nupkg.sha512",
+    "C:\\Users\\jonso\\.nuget\\packages\\moq\\4.21.0\\moq.4.21.0.nupkg.sha512",
+    "C:\\Users\\jonso\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
